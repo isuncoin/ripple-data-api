@@ -1,0 +1,28 @@
+{
+  "development" : {
+    "username" : "idata",
+    "password" : "idata",
+    "host"     : "localhost",
+    "port"     : 5984,
+    "database" : "idata",
+    "protocol" : "http"
+  },
+  
+  "staging" : {
+    "username" : "idata",
+    "password" : "idata",
+    "host"     : "localhost",
+    "port"     : 5984,
+    "database" : "idata",
+    "protocol" : "http"
+  },
+  
+  "production" : {
+    "username" : "idata",
+    "password" : "idata",
+    "host"     : "localhost",
+    "port"     : 5984,
+    "database" : "idata",
+    "protocol" : "http"
+  }
+}

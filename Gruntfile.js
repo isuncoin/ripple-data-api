@@ -37,7 +37,7 @@ module.exports = function(grunt) {
         'deployment.environments.json', 
         'Gruntfile.js'
       ],
-      tasks   : ['npm-install', 'jshint', 'develop'],
+      tasks   : ['develop'],
       options : { nospawn: true, atBegin: true }
     },
 
